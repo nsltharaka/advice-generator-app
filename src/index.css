@@ -76,13 +76,11 @@ body {
 
 .next_advice_button:active {
   box-shadow: 0 0 30px var(--clr-primary-green);
-  <<<<<<< HEAD
 }
 
 @media only screen and (min-width: 600px) {
   .container {
-    width: 500px;
+    max-width: 500px;
   }
 
-  =======>>>>>>>7fa0ad81a10a4f14ea10e1906707bac5d7ec7f22
 }
